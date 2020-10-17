@@ -1,5 +1,5 @@
 # TelegramDeleteAccountPython
-a bot for delete your telegram accounts with python
+A simple bot to easily delete your Telegram accounts
 
 ** Put your information in lines 17 to 19 **
 
