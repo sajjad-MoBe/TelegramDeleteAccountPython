@@ -11,7 +11,7 @@ from os import chdir
 #################################
 api_id = '1234123' #your api_id
 api_hash = 'Sajjad Mobe' #your api_hash
-bot_token = '2003:Sajjad1404' #your bot token
+bot_token = '2003:imSajjadMB' #your bot token
 #################################
 
 class delete:
